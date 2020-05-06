@@ -1,0 +1,11 @@
+{
+  "wrap_attributes": "force-aligned",
+  "indent_size": 2,
+  "wrap_line_length": 80,
+  "extra_liners": [
+    "head",
+    "body",
+    "/html"
+  ],
+  "preserve_newlines": false
+}
